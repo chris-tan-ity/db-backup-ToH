@@ -1,0 +1,9 @@
+save_name=
+db_username=
+db_password=
+db_host=
+db_name=
+
+# Don't touch these variables, they are used to keep track of the tape rotation
+counter=0
+last_log=
