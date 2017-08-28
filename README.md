@@ -5,6 +5,8 @@
 3. Cron the script to run daily
 4. Be satisfied that your data is now a little safer, and you have staggered snapshots
 
+If you don't know what the Tower of Hanoi tape rotation scheme is:
+https://en.wikipedia.org/wiki/Backup_rotation_scheme
 
 ## Things to do:
 1. Add all variables to conf file (hanoi home, db name, etc)
